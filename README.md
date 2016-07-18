@@ -1,4 +1,4 @@
-# DFRobot_TELEMATICS_3.5-_TFT_Touch_LCD_Shield
+# DFRobot_TELEMATICS_3.5"_TFT_Touch_LCD_Shield
 DFRobot TELEMATICS 3.5" TFT Touch LCD Shield Respository <br>
 
 Contains the Following:
